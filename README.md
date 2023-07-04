@@ -1,3 +1,3 @@
 # Git Course
 
-Here I upload photos that i have learned from Gwen 
+Here I upload photos that i have learned from Gwen video at freecodecamp
